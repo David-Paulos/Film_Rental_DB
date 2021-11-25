@@ -1,5 +1,5 @@
 <div align="center">
- <img height="256" width="256" src="<img src="https://img.icons8.com/ios-filled/256/000000/clapperboard.png"/>"/>
+ <img height="256" width="256" src="<img src="https://img.icons8.com/ios-filled/256/000000/clapperboard.png" />
 <div>
  
  ## Film Rental Database Clone
