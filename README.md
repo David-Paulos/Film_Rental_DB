@@ -4,9 +4,7 @@
  
  ## Film Rental Database Clone
  
- MySQL data analysis project in helping Film Rental Store to. 
- 
- It is used to perform data analysis for real world business related questions and scenarios such as
+ MySQL data analysis project in helping Film Rental Store to 
 
     * perform data analysis for user behaviours
     * discover marketing stats
