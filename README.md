@@ -6,8 +6,8 @@
  
  MySQL data analysis project in helping Film Rental Store to 
 
-     perform data analysis for user behaviours
-     discover marketing stats
-     find actionable customer/business insights
-     measure and track marketing efforts
+     Perform data analysis for user behaviours
+     Discover marketing stats
+     Find actionable customer/business insights
+     Measure and track marketing efforts
     
